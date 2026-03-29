@@ -160,7 +160,7 @@ const Hero: React.FC = () => {
             >
               {/* Download CV — white on blue-600 → contrast ~5.9:1 ✓ AA */}
               <a
-                href="/RESUME_BALBOA.pdf"
+                href="/BALBOA_RESUME.pdf"
                 download
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-blue-600 hover:bg-blue-500 focus-visible:bg-blue-500 text-white text-sm font-semibold transition-all duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950 active:scale-95"
                 aria-label="Download Mark Angelo Balboa's CV (PDF)"
