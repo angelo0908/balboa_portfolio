@@ -27,8 +27,6 @@ const PROJECTS: Project[] = [
     description:
       "Designed and built a fashion website using WordPress with Elementor Pro for custom layouts and styling. Implemented interactive elements and responsive design with HTML, CSS, and JavaScript to create an engaging user experience.",
     tags: ["WordPress", "Elementor Pro", "HTML", "CSS", "JavaScript"],
-    liveUrl: "https://manilarunwayrepublic.com/",
-    featured: true,
     image: "/mrr.png",
     imageAlt: "Manila Runway Republic fashion website screenshot",
   },
@@ -37,7 +35,6 @@ const PROJECTS: Project[] = [
     description:
       "Built a responsive runway and fashion model website originally developed with WordPress (Elementor Pro) and later migrated to React and TypeScript for a fully coded, component-based architecture. The upgrade improved performance, loading speed, and visual interactions while maintaining responsive design and WCAG accessibility standards.",
     tags: ["WordPress", "TypeScript", "Tailwind CSS", "React", "HTML", "CSS", "JavaScript"],
-    liveUrl: "https://hodarizk.com/",
     image: "/hoda.png",
     imageAlt: "Hoda Rizk website screenshot",
   },
