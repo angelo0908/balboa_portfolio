@@ -112,7 +112,7 @@ const Contact: React.FC = () => {
                 <span className="w-9 h-9 rounded-lg bg-blue-50 dark:bg-blue-950 flex items-center justify-center flex-shrink-0 border border-blue-100 dark:border-blue-900">
                   <MapPinIcon className="w-4 h-4 text-blue-600 dark:text-blue-400" />
                 </span>
-                Quezon City, Philippines
+                Caloocan City, Philippines
               </div>
             </div>
 
